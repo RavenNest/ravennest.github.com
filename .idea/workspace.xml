@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="872a557a-a3f3-45c1-b3e3-755bdc3e384b" name="Default" comment="++">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documents.html" afterPath="$PROJECT_DIR$/documents.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gallery.html" afterPath="$PROJECT_DIR$/gallery.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/members.html" afterPath="$PROJECT_DIR$/members.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project.html" afterPath="$PROJECT_DIR$/project.html" />
     </list>
     <ignored path="ravennest.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -131,10 +126,10 @@
       <file leaf-file-name="gallery.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39144737" vertical-offset="2754" max-vertical-offset="3961">
-              <caret line="176" column="26" selection-start-line="176" selection-start-column="26" selection-end-line="176" selection-end-column="26" />
+            <state vertical-scroll-proportion="0.5871711" vertical-offset="2958" max-vertical-offset="3961">
+              <caret line="195" column="126" selection-start-line="195" selection-start-column="126" selection-end-line="195" selection-end-column="126" />
               <folding>
-                <marker date="1421706797208" expanded="false" signature="4392:4409" placeholder="..." />
+                <marker date="1421706879448" expanded="false" signature="4392:4409" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -491,10 +486,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39144737" vertical-offset="2754" max-vertical-offset="3961">
-          <caret line="176" column="26" selection-start-line="176" selection-start-column="26" selection-end-line="176" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.5871711" vertical-offset="2958" max-vertical-offset="3961">
+          <caret line="195" column="126" selection-start-line="195" selection-start-column="126" selection-end-line="195" selection-end-column="126" />
           <folding>
-            <marker date="1421706797208" expanded="false" signature="4392:4409" placeholder="..." />
+            <marker date="1421706879448" expanded="false" signature="4392:4409" placeholder="..." />
           </folding>
         </state>
       </provider>
