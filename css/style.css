@@ -486,7 +486,7 @@ header {
 }
 
 .box32 {
-	background: #92e4e5;
+	background: #4b4646;
 }
 .box32 figure {
 	width: 100%;
@@ -498,17 +498,14 @@ header {
 	color: #ffffff;
 }
 .listbox1 {
-	padding-right: 0;
 }
 .listbox2 {
-	padding-left: 0;
 }
 .listbox3 {
-	padding-right: 0;
 }
-.listbox4 {
-	padding-left: 0;
+.listbox32 {
 }
+
 /*---------list3-------------*/
 .list3 {
 	padding: 0;
