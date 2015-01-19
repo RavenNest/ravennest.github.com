@@ -2,38 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="872a557a-a3f3-45c1-b3e3-755bdc3e384b" name="Default" comment="++">
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\page1_img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\page1_img2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\page1_img3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\page1_img4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\page1_img5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\page1_img6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\page1_img7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\page1_img8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\page2_img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\page3_bigimg1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\page3_bigimg10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\page3_bigimg11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\page3_bigimg2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\page3_bigimg3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\page3_bigimg4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\page3_bigimg5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\page3_bigimg6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\page3_bigimg7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\page3_bigimg8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\page3_bigimg9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\page3_img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\page3_img10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\page3_img11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\page3_img2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\page3_img3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\page3_img4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\page3_img5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\page3_img6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\page3_img7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\page3_img8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\page3_img9.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gallery.html" afterPath="$PROJECT_DIR$/gallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slider/picture1.jpg" afterPath="$PROJECT_DIR$/img/slider/picture1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slider/picture2.jpg" afterPath="$PROJECT_DIR$/img/slider/picture2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slider/picture3.jpg" afterPath="$PROJECT_DIR$/img/slider/picture3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slider/picture4.jpg" afterPath="$PROJECT_DIR$/img/slider/picture4.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="ravennest.github.com.iws" />
@@ -59,13 +31,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0545454" vertical-offset="1014" max-vertical-offset="2057">
-              <caret line="76" column="56" selection-start-line="76" selection-start-column="56" selection-end-line="76" selection-end-column="56" />
+            <state vertical-scroll-proportion="0.5682211" vertical-offset="1014" max-vertical-offset="2108">
+              <caret line="79" column="58" selection-start-line="79" selection-start-column="58" selection-end-line="79" selection-end-column="58" />
               <folding>
-                <marker date="1421699559115" expanded="false" signature="1472:1489" placeholder="..." />
+                <marker date="1421700475099" expanded="false" signature="1472:1489" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -131,10 +103,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.10526316" vertical-offset="3642" max-vertical-offset="4267">
+            <state vertical-scroll-proportion="-2.4615386" vertical-offset="3642" max-vertical-offset="4267">
               <caret line="218" column="14" selection-start-line="218" selection-start-column="14" selection-end-line="218" selection-end-column="14" />
               <folding>
                 <marker date="1421700015962" expanded="false" signature="4124:4141" placeholder="..." />
@@ -177,8 +149,8 @@
         <option value="$PROJECT_DIR$/members.html" />
         <option value="$PROJECT_DIR$/documents.html" />
         <option value="$PROJECT_DIR$/contact.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/gallery.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -297,7 +269,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288889" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -306,7 +278,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -421,16 +393,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0545454" vertical-offset="1014" max-vertical-offset="2057">
-          <caret line="76" column="56" selection-start-line="76" selection-start-column="56" selection-end-line="76" selection-end-column="56" />
-          <folding>
-            <marker date="1421699559115" expanded="false" signature="1472:1489" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-15.038462" vertical-offset="374" max-vertical-offset="1887">
@@ -451,10 +413,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10526316" vertical-offset="3642" max-vertical-offset="4267">
+        <state vertical-scroll-proportion="-2.4615386" vertical-offset="3642" max-vertical-offset="4267">
           <caret line="218" column="14" selection-start-line="218" selection-start-column="14" selection-end-line="218" selection-end-column="14" />
           <folding>
             <marker date="1421700015962" expanded="false" signature="4124:4141" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5682211" vertical-offset="1014" max-vertical-offset="2108">
+          <caret line="79" column="58" selection-start-line="79" selection-start-column="58" selection-end-line="79" selection-end-column="58" />
+          <folding>
+            <marker date="1421700475099" expanded="false" signature="1472:1489" placeholder="..." />
           </folding>
         </state>
       </provider>
