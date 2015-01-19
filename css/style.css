@@ -27,6 +27,12 @@ body {
 	line-height: 25px;
 	color: #ADADAD;
 }
+
+.logo1{
+	text-align: center;
+	padding: 30px 0;
+}
+
 .row_1 {
 	text-align: center;
 	padding: 30px 0;
