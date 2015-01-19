@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="872a557a-a3f3-45c1-b3e3-755bdc3e384b" name="Default" comment="++">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ravennest.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,10 +32,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.32297063" vertical-offset="765" max-vertical-offset="2210">
-              <caret line="56" column="112" selection-start-line="56" selection-start-column="112" selection-end-line="56" selection-end-column="112" />
+            <state vertical-scroll-proportion="0.2642487" vertical-offset="765" max-vertical-offset="2210">
+              <caret line="54" column="20" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
               <folding>
-                <marker date="1421708249107" expanded="false" signature="1741:1758" placeholder="..." />
+                <marker date="1421708802201" expanded="false" signature="1741:1758" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -138,8 +140,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.448276" vertical-offset="357" max-vertical-offset="29206">
-              <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+            <state vertical-scroll-proportion="-12.896552" vertical-offset="255" max-vertical-offset="29444">
+              <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -464,18 +466,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.448276" vertical-offset="357" max-vertical-offset="29206">
-          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+        <state vertical-scroll-proportion="-12.896552" vertical-offset="255" max-vertical-offset="29444">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32297063" vertical-offset="765" max-vertical-offset="2210">
-          <caret line="56" column="112" selection-start-line="56" selection-start-column="112" selection-end-line="56" selection-end-column="112" />
+        <state vertical-scroll-proportion="0.2642487" vertical-offset="765" max-vertical-offset="2210">
+          <caret line="54" column="20" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
           <folding>
-            <marker date="1421708249107" expanded="false" signature="1741:1758" placeholder="..." />
+            <marker date="1421708802201" expanded="false" signature="1741:1758" placeholder="..." />
           </folding>
         </state>
       </provider>

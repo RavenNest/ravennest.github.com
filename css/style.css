@@ -29,8 +29,22 @@ body {
 }
 
 .logo1{
-	text-align: center;
-	padding: 30px 0;
+	margin-left: 15px;
+	margin-top: 23px;
+	padding: 0px;
+	float: left;
+	text-align: left;
+	display: block;
+	position: relative;
+}
+
+.container{
+	margin-top: 33px;
+}
+
+.container a img{
+width: 100px;
+float: left;
 }
 
 .row_1 {
