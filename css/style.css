@@ -485,6 +485,19 @@ header {
 .box3 p {
 	color: #ffffff;
 }
+
+.box32 {
+	background: #5bb4d6;
+}
+.box32 figure {
+	width: 100%;
+}
+.box32 figure img {
+	width: 100%;
+}
+.box32 p {
+	color: #92e4e5;
+}
 .listbox1 {
 	padding-right: 0;
 }
@@ -492,7 +505,7 @@ header {
 	padding-left: 0;
 }
 .listbox3 {
-	padding-left: 0;
+	padding-right: 0;
 }
 .listbox4 {
 	padding-left: 0;
@@ -1587,15 +1600,15 @@ footer {
 	margin-left: 0;
 	width: 30%;
 }
-.box1,  .box2,  .box3, .box3_2 {
+.box1,  .box2,  .box3, .box32 {
 	float: none;
 	width: 100%;
 	margin: 0 auto 25px;
 }
-.box1 figure,  .box2 figure,  .box3 figure, .box3_2 figure {
+.box1 figure,  .box2 figure,  .box3 figure, .box32 figure {
 	width: 100%;
 }
-.box1 figure img,  .box2 figure img,  .box3 figure img, .box3_2 figure img {
+.box1 figure img,  .box2 figure img,  .box3 figure img, .box32 figure img {
 	width: 100%;
 }
 .box2 figure img {
