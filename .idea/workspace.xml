@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="872a557a-a3f3-45c1-b3e3-755bdc3e384b" name="Default" comment="++">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project.html" afterPath="$PROJECT_DIR$/project.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/profile/profile1.jpg" afterPath="$PROJECT_DIR$/img/profile/profile1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/members.html" afterPath="$PROJECT_DIR$/members.html" />
     </list>
     <ignored path="ravennest.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,10 +64,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="project.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="project.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.60855263" vertical-offset="1143" max-vertical-offset="2295">
+            <state vertical-scroll-proportion="-14.230769" vertical-offset="1143" max-vertical-offset="2295">
               <caret line="89" column="28" selection-start-line="89" selection-start-column="28" selection-end-line="89" selection-end-column="28" />
               <folding>
                 <marker date="1421705666277" expanded="false" signature="1357:1374" placeholder="..." />
@@ -87,13 +88,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="members.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="members.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/members.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="2567">
-              <caret line="5" column="70" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
+            <state vertical-scroll-proportion="0.61513156" vertical-offset="1377" max-vertical-offset="2567">
+              <caret line="103" column="70" selection-start-line="103" selection-start-column="70" selection-end-line="103" selection-end-column="70" />
               <folding>
-                <marker date="1421704576342" expanded="false" signature="1741:1758" placeholder="..." />
+                <marker date="1421705793730" expanded="false" signature="1741:1758" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -159,9 +160,9 @@
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/documents.html" />
         <option value="$PROJECT_DIR$/gallery.html" />
-        <option value="$PROJECT_DIR$/members.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/project.html" />
+        <option value="$PROJECT_DIR$/members.html" />
       </list>
     </option>
   </component>
@@ -434,16 +435,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/members.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="2567">
-          <caret line="5" column="70" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
-          <folding>
-            <marker date="1421704576342" expanded="false" signature="1741:1758" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.6363635" vertical-offset="1326" max-vertical-offset="2210">
@@ -486,10 +477,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60855263" vertical-offset="1143" max-vertical-offset="2295">
+        <state vertical-scroll-proportion="-14.230769" vertical-offset="1143" max-vertical-offset="2295">
           <caret line="89" column="28" selection-start-line="89" selection-start-column="28" selection-end-line="89" selection-end-column="28" />
           <folding>
             <marker date="1421705666277" expanded="false" signature="1357:1374" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/members.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61513156" vertical-offset="1377" max-vertical-offset="2567">
+          <caret line="103" column="70" selection-start-line="103" selection-start-column="70" selection-end-line="103" selection-end-column="70" />
+          <folding>
+            <marker date="1421705793730" expanded="false" signature="1741:1758" placeholder="..." />
           </folding>
         </state>
       </provider>
