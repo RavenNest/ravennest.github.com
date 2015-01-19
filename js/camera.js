@@ -42,7 +42,7 @@
 		slicedRows			: 1,	//if 0 the same value of rows		
 		slideOn				: 'random',	//next, prev, random: decide if the transition effect will be applied to the current (prev) or the next slide		
 		thumbnails			: false,		
-		time				: 5000,	//milliseconds between the end of the sliding effect and the start of the nex one		
+		time				: 3000,	//milliseconds between the end of the sliding effect and the start of the nex one
 		transPeriod			: 1000,	//lenght of the sliding effect in milliseconds		
 ////////callbacks
 		onEndTransition		: function() {  },	//this callback is invoked when the transition effect ends
