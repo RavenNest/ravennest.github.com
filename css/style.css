@@ -54,7 +54,7 @@ body {
 }
 .row_7 {
 	padding: 30px 0 80px;
-	background: #ffffff;
+	background: #eee;
 }
 .row_8 {
 	padding: 63px 0 112px;
@@ -77,7 +77,7 @@ p {
 	font-family: 'Arial', sans-serif;
 	font-size: 15px;
 	line-height: 22px;
-	color: #adadad;
+	color: #222;
 	margin: 0;
 	padding: 0;
 	margin-bottom: 11px;
