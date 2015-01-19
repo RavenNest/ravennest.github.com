@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="872a557a-a3f3-45c1-b3e3-755bdc3e384b" name="Default" comment="++">
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\profile\profile2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\profile\profile3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\ravennest.github.com\img\profile\profile5.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/profile/profile1.jpg" afterPath="$PROJECT_DIR$/img/profile/profile1.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/members.html" afterPath="$PROJECT_DIR$/members.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ravennest.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -97,10 +92,10 @@
       <file leaf-file-name="documents.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/documents.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7549342" vertical-offset="1275" max-vertical-offset="3230">
-              <caret line="102" column="61" selection-start-line="102" selection-start-column="61" selection-end-line="102" selection-end-column="61" />
+            <state vertical-scroll-proportion="0.55921054" vertical-offset="1513" max-vertical-offset="3230">
+              <caret line="109" column="22" selection-start-line="109" selection-start-column="22" selection-end-line="109" selection-end-column="22" />
               <folding>
-                <marker date="1421695365695" expanded="false" signature="1472:1489" placeholder="..." />
+                <marker date="1421695489997" expanded="false" signature="1472:1489" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -420,10 +415,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/documents.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7549342" vertical-offset="1275" max-vertical-offset="3230">
-          <caret line="102" column="61" selection-start-line="102" selection-start-column="61" selection-end-line="102" selection-end-column="61" />
+        <state vertical-scroll-proportion="0.55921054" vertical-offset="1513" max-vertical-offset="3230">
+          <caret line="109" column="22" selection-start-line="109" selection-start-column="22" selection-end-line="109" selection-end-column="22" />
           <folding>
-            <marker date="1421695365695" expanded="false" signature="1472:1489" placeholder="..." />
+            <marker date="1421695489997" expanded="false" signature="1472:1489" placeholder="..." />
           </folding>
         </state>
       </provider>
