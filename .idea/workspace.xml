@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="872a557a-a3f3-45c1-b3e3-755bdc3e384b" name="Default" comment="++">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/profile/profile1.jpg" afterPath="$PROJECT_DIR$/img/profile/profile1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/profile/profile4.jpg" afterPath="$PROJECT_DIR$/img/profile/profile4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/camera.js" afterPath="$PROJECT_DIR$/js/camera.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/members.html" afterPath="$PROJECT_DIR$/members.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slider/picture1.jpg" afterPath="$PROJECT_DIR$/img/slider/picture1.jpg" />
     </list>
     <ignored path="ravennest.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
