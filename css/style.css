@@ -504,10 +504,12 @@ header {
 	overflow: hidden;
 }
 .box4 {
+	margin-bottom: 10px;
+	padding-left: 30px;
 	overflow: hidden;
 	position: relative;
-	background: #ffffff;
-	margin-bottom: 30px;
+	background: #FFF;
+	padding-bottom: 10px;
 }
 .list3 li figure {
 	margin: 0;
