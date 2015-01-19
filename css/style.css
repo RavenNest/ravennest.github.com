@@ -173,7 +173,7 @@ h3 {
 }
 .btn-link3 {
 	position: relative;
-	color: #eb5368;
+	color: #000;
 	font-family: 'Georgia', serif;
 	font-size: 18px;
 	line-height: 22px;
@@ -508,7 +508,7 @@ header {
 	padding-left: 30px;
 	overflow: hidden;
 	position: relative;
-	background: #FFF;
+	background: #DDD;
 	padding-bottom: 10px;
 }
 .list3 li figure {
@@ -532,7 +532,7 @@ header {
 	font-size: 26px;
 	line-height: 28px;
 	font-weight: normal;
-	color: #4e4134;
+	color: #222;
 	margin-bottom: 10px;
 }
 .list3title2 {
@@ -540,7 +540,7 @@ header {
 	font-size: 20px;
 	line-height: 22px;
 	font-weight: normal;
-	color: #adadad;
+	color: #222;
 	margin-bottom: 6px;
 }
 .list3title3 {
