@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="872a557a-a3f3-45c1-b3e3-755bdc3e384b" name="Default" comment="++" />
+    <list default="true" id="872a557a-a3f3-45c1-b3e3-755bdc3e384b" name="Default" comment="++">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/members.html" afterPath="$PROJECT_DIR$/members.html" />
+    </list>
     <ignored path="ravennest.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -86,10 +88,10 @@
       <file leaf-file-name="members.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/members.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.55921054" vertical-offset="1292" max-vertical-offset="2465">
-              <caret line="96" column="70" selection-start-line="96" selection-start-column="70" selection-end-line="96" selection-end-column="70" />
+            <state vertical-scroll-proportion="0.36348686" vertical-offset="1088" max-vertical-offset="2533">
+              <caret line="77" column="58" selection-start-line="77" selection-start-column="58" selection-end-line="77" selection-end-column="58" />
               <folding>
-                <marker date="1421700883286" expanded="false" signature="1472:1489" placeholder="..." />
+                <marker date="1421701987197" expanded="false" signature="1472:1489" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -289,7 +291,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1320" height="784" extended-state="7" />
+    <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288889" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -432,16 +434,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.981818" vertical-offset="1014" max-vertical-offset="2108">
-          <caret line="79" column="58" selection-start-line="79" selection-start-column="58" selection-end-line="79" selection-end-column="58" />
-          <folding>
-            <marker date="1421700475099" expanded="false" signature="1472:1489" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/animation.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.1034484" vertical-offset="1477" max-vertical-offset="4828">
@@ -470,12 +462,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.981818" vertical-offset="1014" max-vertical-offset="2108">
+          <caret line="79" column="58" selection-start-line="79" selection-start-column="58" selection-end-line="79" selection-end-column="58" />
+          <folding>
+            <marker date="1421700475099" expanded="false" signature="1472:1489" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/members.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55921054" vertical-offset="1292" max-vertical-offset="2465">
-          <caret line="96" column="70" selection-start-line="96" selection-start-column="70" selection-end-line="96" selection-end-column="70" />
+        <state vertical-scroll-proportion="0.36348686" vertical-offset="1088" max-vertical-offset="2533">
+          <caret line="77" column="58" selection-start-line="77" selection-start-column="58" selection-end-line="77" selection-end-column="58" />
           <folding>
-            <marker date="1421700883286" expanded="false" signature="1472:1489" placeholder="..." />
+            <marker date="1421701987197" expanded="false" signature="1472:1489" placeholder="..." />
           </folding>
         </state>
       </provider>
