@@ -1587,15 +1587,15 @@ footer {
 	margin-left: 0;
 	width: 30%;
 }
-.box1,  .box2,  .box3 {
+.box1,  .box2,  .box3 .box3_2 {
 	float: none;
 	width: 100%;
 	margin: 0 auto 25px;
 }
-.box1 figure,  .box2 figure,  .box3 figure {
+.box1 figure,  .box2 figure,  .box3 figure .box3_2 figure {
 	width: 100%;
 }
-.box1 figure img,  .box2 figure img,  .box3 figure img {
+.box1 figure img,  .box2 figure img,  .box3 figure img .box3_2 figure img {
 	width: 100%;
 }
 .box2 figure img {
