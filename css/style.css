@@ -49,11 +49,14 @@ body {
 }
 
 .containerlogo2{
-	margin-top: 33px;
+	margin-right: 130px;
+	margin-top: 20px;
 	margin-bottom: 22px;
+	float: right;
 }
 
 .containerlogo2 a{
+	font-size: 15px;
 	margin-top: 33px;
 	margin-bottom: 22px;
 }
