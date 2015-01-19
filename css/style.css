@@ -208,7 +208,7 @@ header {
 	margin: 68px auto 60px;
 }
 .navbar-brand_ img {
-	max-width: 100%;
+	width: 100%;
 }
 .navbar-brand_a:hover {
 	text-decoration: none;
