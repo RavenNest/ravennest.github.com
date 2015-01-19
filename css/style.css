@@ -489,10 +489,12 @@ header {
 	padding-right: 0;
 }
 .listbox2 {
-	padding-right: 0;
 	padding-left: 0;
 }
 .listbox3 {
+	padding-left: 0;
+}
+.listbox4 {
 	padding-left: 0;
 }
 /*---------list3-------------*/
