@@ -468,7 +468,6 @@ header {
 }
 .box2 figure img {
 	width: 100%;
-	height: 216px;
 }
 .box2 p {
 	color: #ffffff;
@@ -487,7 +486,7 @@ header {
 }
 
 .box32 {
-	background: #5bb4d6;
+	background: #92e4e5;
 }
 .box32 figure {
 	width: 100%;
@@ -496,7 +495,7 @@ header {
 	width: 100%;
 }
 .box32 p {
-	color: #92e4e5;
+	color: #ffffff;
 }
 .listbox1 {
 	padding-right: 0;
