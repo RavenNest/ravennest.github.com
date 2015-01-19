@@ -38,13 +38,24 @@ body {
 	position: relative;
 }
 
-.container{
+.containerlogo1{
 	margin-top: 33px;
+	margin-bottom: 22px;
 }
 
-.container a img{
-width: 100px;
-float: left;
+.containerlogo1 a img{
+	width: 100px;
+	float: left;
+}
+
+.containerlogo2{
+	margin-top: 33px;
+	margin-bottom: 22px;
+}
+
+.containerlogo2 a{
+	margin-top: 33px;
+	margin-bottom: 22px;
 }
 
 .row_1 {
