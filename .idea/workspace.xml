@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="872a557a-a3f3-45c1-b3e3-755bdc3e384b" name="Default" comment="++">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/members.html" afterPath="$PROJECT_DIR$/members.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
     </list>
     <ignored path="ravennest.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -88,10 +89,10 @@
       <file leaf-file-name="members.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/members.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.36348686" vertical-offset="1088" max-vertical-offset="2533">
-              <caret line="77" column="58" selection-start-line="77" selection-start-column="58" selection-end-line="77" selection-end-column="58" />
+            <state vertical-scroll-proportion="0.36348686" vertical-offset="1088" max-vertical-offset="2516">
+              <caret line="77" column="55" selection-start-line="77" selection-start-column="55" selection-end-line="77" selection-end-column="55" />
               <folding>
-                <marker date="1421701987197" expanded="false" signature="1472:1489" placeholder="..." />
+                <marker date="1421702194813" expanded="false" signature="1472:1489" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -136,8 +137,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="923.5862" vertical-offset="27379" max-vertical-offset="29019">
-              <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+            <state vertical-scroll-proportion="-6.8965516" vertical-offset="259" max-vertical-offset="29104">
+              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -152,13 +153,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/bootstrap.css" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/project.html" />
         <option value="$PROJECT_DIR$/documents.html" />
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/gallery.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/camera.js" />
+        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/members.html" />
       </list>
     </option>
@@ -378,14 +379,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="923.5862" vertical-offset="27379" max-vertical-offset="29019">
-          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/documents.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-11.615385" vertical-offset="718" max-vertical-offset="2737">
@@ -472,12 +465,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.8965516" vertical-offset="259" max-vertical-offset="29104">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/members.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36348686" vertical-offset="1088" max-vertical-offset="2533">
-          <caret line="77" column="58" selection-start-line="77" selection-start-column="58" selection-end-line="77" selection-end-column="58" />
+        <state vertical-scroll-proportion="0.36348686" vertical-offset="1088" max-vertical-offset="2516">
+          <caret line="77" column="55" selection-start-line="77" selection-start-column="55" selection-end-line="77" selection-end-column="55" />
           <folding>
-            <marker date="1421701987197" expanded="false" signature="1472:1489" placeholder="..." />
+            <marker date="1421702194813" expanded="false" signature="1472:1489" placeholder="..." />
           </folding>
         </state>
       </provider>
